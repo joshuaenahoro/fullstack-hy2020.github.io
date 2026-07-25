@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[51],{Bxyr:function(a,t,e){"use strict";e.r(t);var n=e("q1tI"),l=e.n(n),i=e("D9jW");t.default=a=>{let t=a.data;return l.a.createElement(i.a,{localSearch:t.localSearchFinnish,title:"Etsi hakusanalla materiaalista",inputPlaceholder:"Syötä hakusana",lang:"fi"})}}}]);
+//# sourceMappingURL=component---src-pages-search-js-5601c3445ed43b81c31f.js.map
